@@ -8,5 +8,8 @@ IR Breaker / Burglar Alarm
 #### Video Setup Part1: https://youtu.be/THh5w0mFuOU
 #### Video end2end Part2: https://www.youtube.com/watch?v=1Qnxy1wCtAg
 
+##### If you finished with the lesson you can start on the LCD counter if you like
+##### https://github.com/SixNationsPolytechnic/2018-01-BurglarAlarm/blob/master/SNP-1st-lesson-extra-LCD-2018Feb21.pdf
+
 # SixNationsPolytechnic-2018 classes
 # Class #1 -Burglar Alarm
